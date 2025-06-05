@@ -32,10 +32,9 @@ This GitHub Pages site is where I share my data projects, learning journey, and 
 
 I'm currently upskilling in:
 
-- A/B testing and causal inference
-- Dashboards using Power BI and Dash
-- Advanced regression and classification techniques
-- NLP and generative AI (via self-learning and experimentation)
+- Data Analysis with Python: Pandas, scikit-learn etc.
+- Data Visualisation with Python: Matplotlib, Plotly, Folium, Dash
+- Machine Learning concepts - regression, classification, random forest, decision tree, SVM
 
 
 ## 📚 Books I’m Reading
