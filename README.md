@@ -27,8 +27,7 @@ This GitHub Pages site is where I showcase my software engineering projects, tec
 * HTML5 & CSS3
 * Git & GitHub
 
-🔗 [View the live website](https://ziyadsaf.github.io)
-📁 [View the source code](./portfolio-website)
+📁 [View the source code](https://github.com/ziyadsaf/ZS-Portfolio)
 
 ---
 
