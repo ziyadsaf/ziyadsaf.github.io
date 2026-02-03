@@ -6,9 +6,9 @@ This GitHub Pages site is where I showcase my software engineering projects, tec
 
 ---
 
-## 💻 Featured Project
+## 💻 Projects
 
-### 🌐 Portfolio Website (React & JavaScript)
+### 🌐 Portfolio Website
 
 **Objective**: Design and build a responsive personal portfolio website to showcase my projects, skills, and experience.
 
@@ -20,36 +20,42 @@ This GitHub Pages site is where I showcase my software engineering projects, tec
 * Clean, modern UI with reusable components
 * Deployed using **GitHub Pages**
 
-**Tech Stack**:
+**Tech Stack**: JavaScript (ES6+), React, HTML5, CSS3, Git
 
-* JavaScript (ES6+)
-* React
-* HTML5 & CSS3
-* Git & GitHub
-
-📁 [View the source code](https://github.com/ziyadsaf/ZS-Portfolio)
+🔗 [View the source code](https://github.com/ziyadsaf/ZS-Portfolio)
 
 ---
 
-## 🛠️ Other Projects
+### 🎴 Quiz-Card
+
+**Objective**: Build an educational quiz application that generates personalised flashcards to optimise learning and retention.
+
+**Key Features**:
+
+* Automatically generates flashcards based on incorrectly answered questions
+* Implements spaced repetition logic to improve recall and progression
+* Modular application structure for testability and future expansion
+* Accessible CLI interface with documented usage
+
+**Tech Stack**: Python
+
+🔗 [View the source code](https://github.com/ziyadsaf/Quiz-Card)
+
+---
 
 ### 🎬 Movie Success Prediction App
 
-A full-stack style data application where users can explore how different features affect movie revenue.
+**Objective**: Build an end-to-end data pipeline to explore how different features affect movie revenue and popularity.
 
-**Highlights**:
+**Key Features**:
 
 * Data processing and modelling in Python
 * Interactive visualisations
 * Model served via a simple frontend interface
 
-**Tech Stack**:
+**Tech Stack**: Python (Pandas, scikit-learn), Jupyter Notebook, JavaScript
 
-* Python (pandas, scikit-learn)
-* Jupyter Notebook
-* JavaScript for visualisation
-
-📁 [View the project](./movie-success-prediction)
+🔗 [View the project](./movie-success-prediction)
 
 ---
 
@@ -79,7 +85,7 @@ A full-stack style data application where users can explore how different featur
 
 ## 📚 Continuous Learning
 
-I’m actively improving my engineering foundations through:
+I'm actively improving my engineering foundations through:
 
 * *Hands-On Machine Learning with Scikit-Learn and TensorFlow*
 * *Introduction to Statistical Learning*
@@ -106,7 +112,7 @@ I'm currently focused on:
 
 ## 📫 Let's Connect
 
-If you’re a recruiter, hiring manager, or fellow developer — feel free to connect with me:
+If you're a recruiter, hiring manager, or fellow developer – feel free to connect with me:
 
 * LinkedIn: [https://www.linkedin.com/in/ziyad-safouane/](https://www.linkedin.com/in/ziyad-safouane/)
 * GitHub: [https://github.com/ziyadsaf](https://github.com/ziyadsaf)
