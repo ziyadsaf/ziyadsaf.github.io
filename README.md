@@ -1,3 +1,11 @@
+# 👋 Welcome to My Software Engineering Portfolio
+
+Hi! I'm Ziyad — a software engineer with a First-Class Honours in BSc Computing, passionate about building modern applications and data-driven systems. I enjoy working across the stack, from frontend interfaces to data pipelines and machine learning workflows.
+
+This GitHub Pages site showcases my projects, technical skills, and continuous learning journey.
+
+---
+
 ## 💻 Projects
 
 ### 🏎️ F1 Telemetry Analysis
@@ -92,3 +100,64 @@ A Python CLI application that improves learning retention by automatically gener
 
 **Tech Stack**: Python
 🔗 [https://github.com/ziyadsaf/Quiz-Card](https://github.com/ziyadsaf/Quiz-Card)
+
+---
+
+## 🚀 Technical Skills
+
+### Core
+
+* JavaScript (ES6+)
+* Python
+* Git & GitHub
+* SQL
+
+### Frontend
+
+* React
+* HTML5, CSS3
+* Responsive design
+* UI component design
+
+### Backend / Data
+
+* REST-style APIs
+* Pandas, NumPy, scikit-learn
+* Data analysis & visualisation
+* Jupyter workflows
+
+---
+
+## 📚 Continuous Learning
+
+I'm actively strengthening my software engineering and data science foundations through:
+
+* *Hands-On Machine Learning with Scikit-Learn and TensorFlow*
+* *Introduction to Statistical Learning*
+* *Mathematics for Machine Learning*
+
+Alongside:
+
+* LeetCode and coding challenges
+* Personal full-stack and ML projects
+* System design fundamentals
+
+---
+
+## 🎯 What's Next?
+
+I'm currently focused on:
+
+* Building more **data-driven and full-stack applications**
+* Deepening my knowledge of **React and modern JavaScript**
+* Learning **backend frameworks and cloud deployment**
+* Preparing for **software engineering and data roles**
+
+---
+
+## 📫 Let's Connect
+
+* LinkedIn: [https://www.linkedin.com/in/ziyad-safouane/](https://www.linkedin.com/in/ziyad-safouane/)
+* GitHub: [https://github.com/ziyadsaf](https://github.com/ziyadsaf)
+
+Thanks for visiting my portfolio! 🚀
