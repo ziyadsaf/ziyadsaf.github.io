@@ -1,120 +1,94 @@
-# 👋 Welcome to My Software Engineering Portfolio 
-
-Hi! I'm Ziyad – a software engineer with a First-Class Honours in BSc Computing, passionate about building modern, user-focused web applications. I have a strong foundation in computer science, experience in technical roles, and a growing portfolio of projects across frontend and backend development.
-
-This GitHub Pages site is where I showcase my software engineering projects, technical skills, and learning journey.
-
----
-
 ## 💻 Projects
 
-### 🌐 Portfolio Website
+### 🏎️ F1 Telemetry Analysis
 
-**Objective**: Design and build a responsive personal portfolio website to showcase my projects, skills, and experience.
+**Overview**
+A data analysis project exploring real Formula 1 telemetry data to understand driver performance, racing behaviour, and lap efficiency. This project focuses on building reproducible data workflows and extracting insights from high-frequency time-series data.
 
-**Key Features**:
+**What I built**
 
-* Built as a single-page application using **React**
-* Dynamic project section rendered from structured data
-* Responsive layout for desktop and mobile
-* Clean, modern UI with reusable components
-* Deployed using **GitHub Pages**
+* Data ingestion and preprocessing pipeline for telemetry datasets
+* Time-series analysis of speed, throttle, and braking inputs
+* Driver lap comparison visualisations
+* Reproducible Jupyter analysis workflow
+* Clear data storytelling through plots and metrics
 
-**Tech Stack**: JavaScript (ES6+), React, HTML5, CSS3, Git
+**Impact**
 
-🔗 [View the source code](https://github.com/ziyadsaf/ZS-Portfolio)
+* Demonstrates ability to work with **real-world, noisy datasets**
+* Shows understanding of **data analysis workflows and performance metrics**
+* Applies **Python data tooling to a complex domain dataset**
 
----
-
-### 🎴 Quiz-Card
-
-**Objective**: Build an educational quiz application that generates personalised flashcards to optimise learning and retention.
-
-**Key Features**:
-
-* Automatically generates flashcards based on incorrectly answered questions
-* Implements spaced repetition logic to improve recall and progression
-* Modular application structure for testability and future expansion
-* Accessible CLI interface with documented usage
-
-**Tech Stack**: Python
-
-🔗 [View the source code](https://github.com/ziyadsaf/Quiz-Card)
+**Tech Stack**: Python, Pandas, NumPy, Matplotlib, Jupyter Notebook
+🔗 [https://github.com/ziyadsaf/F1-telemetry-analysis](https://github.com/ziyadsaf/F1-telemetry-analysis)
 
 ---
 
 ### 🎬 Movie Success Prediction App
 
-**Objective**: Build an end-to-end data pipeline to explore how different features affect movie revenue and popularity.
+**Overview**
+An end-to-end machine learning project investigating how film attributes influence revenue and popularity. The project covers the full ML workflow from data preparation to model evaluation and presentation.
 
-**Key Features**:
+**What I built**
 
-* Data processing and modelling in Python
-* Interactive visualisations
-* Model served via a simple frontend interface
+* Data cleaning and feature engineering pipeline
+* Regression model using scikit-learn
+* Visual exploration of feature relationships
+* Lightweight interface to interact with predictions
+* Structured modelling workflow with evaluation metrics
+
+**Impact**
+
+* Demonstrates understanding of the **machine learning lifecycle**
+* Shows ability to connect **data analysis with predictive modelling**
+* Highlights experience communicating insights through **visualisation**
 
 **Tech Stack**: Python (Pandas, scikit-learn), Jupyter Notebook, JavaScript
-
 🔗 [View the project](./movie-success-prediction)
 
 ---
 
-## 🚀 Technical Skills
+### 🌐 Portfolio Website
 
-### Core
+**Overview**
+A responsive React portfolio site designed to present projects and technical skills in a clean, maintainable interface. The focus was on reusable components, structured data rendering, and modern frontend practices.
 
-* JavaScript (ES6+)
-* Python
-* Git & GitHub
-* SQL
+**What I built**
 
-### Frontend
+* React single-page application architecture
+* Dynamic project rendering from structured data
+* Reusable UI components
+* Responsive layout across devices
+* GitHub Pages deployment pipeline
 
-* React
-* HTML5, CSS3
-* Responsive design
-* Basic UI/UX principles
+**Impact**
 
-### Backend / Data
+* Demonstrates **frontend engineering fundamentals**
+* Shows ability to build and deploy **production-style web applications**
+* Highlights understanding of **component-based architecture**
 
-* REST-style APIs
-* Pandas, NumPy, scikit-learn
-* Data analysis & visualisation
-
----
-
-## 📚 Continuous Learning
-
-I'm actively improving my engineering foundations through:
-
-* *Hands-On Machine Learning with Scikit-Learn and TensorFlow*
-* *Introduction to Statistical Learning*
-* *Mathematics for Machine Learning*
-
-Alongside:
-
-* LeetCode / coding challenges
-* Personal full-stack projects
-* System design and software architecture concepts
+**Tech Stack**: JavaScript (ES6+), React, HTML5, CSS3, Git
+🔗 [https://github.com/ziyadsaf/ZS-Portfolio](https://github.com/ziyadsaf/ZS-Portfolio)
 
 ---
 
-## 🎯 What's Next?
+### 🎴 Quiz-Card
 
-I'm currently focused on:
+**Overview**
+A Python CLI application that improves learning retention by automatically generating flashcards from incorrectly answered questions using spaced repetition principles.
 
-* Building more **full-stack applications**
-* Deepening my knowledge of **React and modern JavaScript**
-* Learning backend frameworks and cloud deployment
-* Preparing for **software engineering roles**
+**What I built**
 
----
+* CLI-based quiz engine
+* Automatic flashcard generation logic
+* Spaced repetition workflow
+* Modular Python architecture
 
-## 📫 Let's Connect
+**Impact**
 
-If you're a recruiter, hiring manager, or fellow developer – feel free to connect with me:
+* Demonstrates **problem-solving through automation**
+* Shows ability to design **testable, modular Python applications**
+* Applies **learning science concepts to software design**
 
-* LinkedIn: [https://www.linkedin.com/in/ziyad-safouane/](https://www.linkedin.com/in/ziyad-safouane/)
-* GitHub: [https://github.com/ziyadsaf](https://github.com/ziyadsaf)
-
-Thanks for visiting my portfolio! 🚀
+**Tech Stack**: Python
+🔗 [https://github.com/ziyadsaf/Quiz-Card](https://github.com/ziyadsaf/Quiz-Card)
