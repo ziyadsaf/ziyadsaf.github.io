@@ -1,4 +1,4 @@
-# 👋 Welcome to My Software Engineering Portfolio
+# Welcome to My Software Engineering Portfolio
 
 Hi! I'm Ziyad — a software engineer with a First-Class Honours in BSc Computing, passionate about building modern applications and data-driven systems. I enjoy working across the stack, from frontend interfaces to data pipelines and machine learning workflows.
 
@@ -76,7 +76,7 @@ A responsive React portfolio site designed to present projects and technical ski
 * Highlights understanding of **component-based architecture**
 
 **Tech Stack**: JavaScript (ES6+), React, HTML5, CSS3, Git
-🔗 [https://github.com/ziyadsaf/ZS-Portfolio](https://github.com/ziyadsaf/ZS-Portfolio)
+🔗 [Website Link](https://zs-porfolio.vercel.app/)
 
 ---
 
