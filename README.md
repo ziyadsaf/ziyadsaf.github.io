@@ -28,7 +28,7 @@ A data analysis project exploring real Formula 1 telemetry data to understand dr
 * Applies **Python data tooling to a complex domain dataset**
 
 **Tech Stack**: Python, Pandas, NumPy, Matplotlib, Jupyter Notebook
-🔗 [https://github.com/ziyadsaf/F1-telemetry-analysis](https://github.com/ziyadsaf/F1-telemetry-analysis)
+🔗 [View the project](https://github.com/ziyadsaf/F1-telemetry-analysis)
 
 ---
 
