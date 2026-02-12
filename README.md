@@ -1,76 +1,85 @@
 # Ziyad Safouane
-## Software Engineer
+### Software Engineer
 
-### Portfolio Website
-## https://zs-porfolio.vercel.app/
-
-This is the best place to explore my projects, technical work, and experience.
+Building Python systems, automation tools, and data-driven applications.
 
 ---
 
-## About Me
+## Portfolio
+### https://zs-porfolio.vercel.app/
 
-I am a software engineer with a First-Class BSc in Computing, focused on building Python applications, automation tools, and data-driven systems. I enjoy working on problems that involve debugging complex behaviour, designing reliable code, and turning prototypes into maintainable software.
+Explore my full project portfolio, technical work, and experience on my website.
 
-My background includes building evaluation pipelines and automation tooling in Amazon’s AGI organisation, as well as developing personal projects across Python, machine learning, and frontend development.
+---
 
-This GitHub Pages site acts as a directory of my projects, while my portfolio website contains full project write-ups.
+## About
+
+I am a software engineer with a First-Class BSc in Computing who enjoys building reliable software and learning how systems behave at scale. My experience includes developing Python automation and evaluation pipelines within Amazon’s AGI organisation, as well as building personal projects across backend development, data analysis, and frontend applications.
+
+I am particularly interested in backend engineering, system reliability, and building tools that help teams move faster and make better decisions.
+
+---
+
+## Tech Stack
+
+**Languages**  
+Python, JavaScript, SQL
+
+**Frontend**  
+React, HTML, CSS
+
+**Data and Machine Learning**  
+Pandas, NumPy, scikit-learn
+
+**Tools**  
+Git, Jupyter, Docker (learning)
 
 ---
 
 ## Featured Projects
 
 ### F1 Telemetry Analysis
-Analysis of real Formula 1 telemetry data to explore lap performance, driver inputs, and racing behaviour using time-series data workflows.
+Working with real Formula 1 telemetry data to analyse driver performance and lap efficiency using time-series workflows.
 
-Python, Pandas, NumPy, Matplotlib  
+Python, Pandas, Matplotlib  
 https://github.com/ziyadsaf/F1-telemetry-analysis
 
 ---
 
 ### Movie Success Prediction
-End-to-end machine learning project covering data preparation, feature engineering, regression modelling, and evaluation.
+Machine learning pipeline for predicting movie revenue using regression models and feature engineering.
 
-Python, scikit-learn, Pandas  
+Python, scikit-learn  
 https://github.com/ziyadsaf/movie-success-prediction
 
 ---
 
 ### Portfolio Website
-A React portfolio site built with reusable components and dynamic project rendering.
+React-based portfolio site with reusable components and dynamic project rendering.
 
-React, JavaScript, HTML, CSS  
+React, JavaScript  
 https://zs-porfolio.vercel.app/
 
 ---
 
 ### Quiz-Card
-A Python CLI tool that generates flashcards from incorrect answers using spaced repetition principles.
+Command-line Python application that generates flashcards from incorrect answers using spaced repetition.
 
 Python  
 https://github.com/ziyadsaf/Quiz-Card
 
 ---
 
-## Technical Skills
-
-Languages: Python, JavaScript, SQL  
-Frontend: React, HTML, CSS  
-Data: Pandas, NumPy, scikit-learn  
-Tools: Git, Jupyter
-
----
-
 ## Currently Learning
 
-- Backend engineering patterns
-- Cloud deployment fundamentals
-- Writing more robust and testable Python systems
+- Backend system design fundamentals
+- Cloud deployment workflows
+- Writing testable and maintainable Python code
 - Coding interview preparation
 
 ---
 
-## Contact
+## Connect
 
 LinkedIn: https://www.linkedin.com/in/ziyad-safouane/  
 GitHub: https://github.com/ziyadsaf
