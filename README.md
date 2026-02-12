@@ -6,7 +6,7 @@ Building Python systems, automation tools, and data-driven applications.
 ---
 
 ## Portfolio
-### https://zs-porfolio.vercel.app/
+### [Portfolio Website](https://zs-porfolio.vercel.app/)
 
 Explore my full project portfolio, technical work, and experience on my website.
 
@@ -41,45 +41,29 @@ Git, Jupyter, Docker (learning)
 ### F1 Telemetry Analysis
 Working with real Formula 1 telemetry data to analyse driver performance and lap efficiency using time-series workflows.
 
-Python, Pandas, Matplotlib  
-https://github.com/ziyadsaf/F1-telemetry-analysis
+**Tech:** Python, Pandas, Matplotlib  
+**Repo:** [github.com/ziyadsaf/F1-telemetry-analysis](https://github.com/ziyadsaf/F1-telemetry-analysis)
 
 ---
 
 ### Movie Success Prediction
 Machine learning pipeline for predicting movie revenue using regression models and feature engineering.
 
-Python, scikit-learn  
-https://github.com/ziyadsaf/movie-success-prediction
+**Tech:** Python, scikit-learn  
+**Repo:** [github.com/ziyadsaf/movie-success-prediction](https://github.com/ziyadsaf/movie-success-prediction)
 
 ---
 
 ### Portfolio Website
 React-based portfolio site with reusable components and dynamic project rendering.
 
-React, JavaScript  
-https://zs-porfolio.vercel.app/
+**Tech:** React, JavaScript  
+**Live:** [zs-porfolio.vercel.app](https://zs-porfolio.vercel.app/)
 
 ---
 
 ### Quiz-Card
 Command-line Python application that generates flashcards from incorrect answers using spaced repetition.
 
-Python  
-https://github.com/ziyadsaf/Quiz-Card
-
----
-
-## Currently Learning
-
-- Backend system design fundamentals
-- Cloud deployment workflows
-- Writing testable and maintainable Python code
-- Coding interview preparation
-
----
-
-## Connect
-
-LinkedIn: https://www.linkedin.com/in/ziyad-safouane/  
-GitHub: https://github.com/ziyadsaf
+**Tech:** Python  
+**Repo:** [github.com/ziyadsaf/Quiz-Card](https://github.com/ziya)
